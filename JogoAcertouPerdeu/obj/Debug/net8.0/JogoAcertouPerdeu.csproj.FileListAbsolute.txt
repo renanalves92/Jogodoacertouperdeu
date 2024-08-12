@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\bin\Debug\net8.0\JogoAcertouPerdeu.exe
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\bin\Debug\net8.0\JogoAcertouPerdeu.deps.json
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\bin\Debug\net8.0\JogoAcertouPerdeu.runtimeconfig.json
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\bin\Debug\net8.0\JogoAcertouPerdeu.dll
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\bin\Debug\net8.0\JogoAcertouPerdeu.pdb
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.dll
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\refint\JogoAcertouPerdeu.dll
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.pdb
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\JogoAcertouPerdeu.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JogoAcertouPerdeu\obj\Debug\net8.0\ref\JogoAcertouPerdeu.dll
